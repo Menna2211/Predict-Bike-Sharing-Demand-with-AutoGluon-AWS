@@ -8,7 +8,7 @@ Weather conditions
 Holiday and working day indicators
 Counts of hourly bike rentals categorized into casual and registered users
 
-#Application:
+# Application:
 This project demonstrates the practical application of machine learning in urban mobility. By predicting bike rental demand, the model can help optimize resource allocation for bike-sharing systems, improve customer satisfaction, and support urban planning initiatives. It also serves as a reference for using AutoGluon to handle tabular data effectively in real-world scenarios.
 
 The implementation includes:
